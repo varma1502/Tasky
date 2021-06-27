@@ -103,13 +103,3 @@ const deleteCard = (event) => {
   );
 };
 
-// Features
-
-// Edit -> Required
-
-// HINT
-
-// Complicated yet easy -> 
-
-// 1. contenteditable
-// 2. setAttributeNode()
